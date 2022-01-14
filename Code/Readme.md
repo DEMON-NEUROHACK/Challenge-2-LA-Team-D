@@ -1,8 +1,8 @@
 Steps to run this file:
 
-Download the ipynb workbook
-Open the jupyter lab or console
-Under jupyter, open this file
+1. Download the ipynb workbook
+2. Open the jupyter lab or console
+3. Under jupyter, open this file and hit run
 
 
 Packages needed to run this file:
